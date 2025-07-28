@@ -28,4 +28,4 @@ Data structure diagrams and system integration examples aligned with AFRY Smart 
 
 📄 **Whitepaper/**  
 Technical reflection and conceptual overview:  
-“From BIM to Digital Twin in Infrastructure Projects (AFRY Use Case)”
+“From BIM to Digital Twin in Infrastructure Projects”
